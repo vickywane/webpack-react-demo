@@ -30,15 +30,6 @@ const renderer = merge(base, {
         test: /\.(png|svg|jpg|mp3|gif)$/,
         use: ['file-loader'],
       },
-      // for preact-react config ===========>
-      // {
-      //   resolve: {
-      //     alias: {
-      //       react: 'preact-compat',
-      //       'react-dom': 'preact-compat',
-      //     },
-      //   },
-      // },
     ],
   },
   plugins: [

@@ -1,9 +1,14 @@
-<h1 style={{textAlign : 'center'}}> Remotify-desktop  </h1>
+## Smashing Magazine Webpack Demo Desktop Application
 
-<h5> This repo contains the files for the desktop Remotify software </h5>
+This repository contains the files for the demo desktop modified within my article published with Smashing Magazine.
+You can find the article [here](https://www.smashingmagazine.com/author/nwani-victory/) 
 
-<p> <b> This readme is currently in complete but would be updated when a beta version 
-of 
-this software is released. </b> </p>
+
+### Installation Steps
+
+- Clone or download repository to your local machine
+- Install project dependencies using `npm run install` or `yarn install` ( if `yarn` is installed )
+- Start electron application using the `npm run start` or `yarn start`  ( if `yarn` is installed )
+
 
 
